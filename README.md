@@ -1,5 +1,5 @@
 # Amelia-Konomoss
-Hi there, i'm Amelia
+Hello world, i'm Amelia
 :grinning:
 # comment
 
