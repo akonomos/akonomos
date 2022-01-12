@@ -9,4 +9,6 @@ Hello world, i'm Amelia
 
 <img width="230" alt="Screen Shot 2022-01-12 at 9 01 02 AM" src="https://user-images.githubusercontent.com/66533374/149186783-bbd58af1-ede9-4230-8074-74f2d2a1e9af.png"> <br />
 
-:boom: [RESEARCH_POSTER.pdf](https://github.com/akonomos/Amelia-Konomoss/files/7856561/RESEARCH_POSTER.pdf)
+:boom: [RESEARCH_POSTER.pdf](https://github.com/akonomos/Amelia-Konomoss/files/7856561/RESEARCH_POSTER.pdf) <br />
+
+:boom: [final_report_SURF.pdf](https://github.com/akonomos/Amelia-Konomoss/files/7856583/final_report_SURF.pdf)
