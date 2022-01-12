@@ -3,7 +3,8 @@ Hi there, i'm Amelia
 :grinning:
 # comment
 
-- I love applying my passion for math and physics to new technologies
+- I am passionate about merging math and physics with new technologies
 - I am a current third year at UCLA
 - My major is Astrophysics
 - 
+🤎
