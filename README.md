@@ -24,9 +24,8 @@ Hello world, i'm Amelia
 :boom: [SURF presentation](https://www.youtube.com/watch?v=WAnW8u--diQ)
 
 # Physics and Computer Science
-Physics and computer science are two complimentary fields. The former provides an analytical framework about the natural world while the latter applies practical insights to data science. 
+Physics and computer science are two complimentary fields. The former provides an analytical framework about the natural world while the latter applies practical insights to data science. Through my studies, I have gained experience with both Python and C++ and libraries like AstroPy, NumPy, pandas, OpenCV, and TensorFlow.  <br />
+Some of my coding projects include an Exoplanet Wavelength Calibrated Solution Framework (Python) and Reference Frame Shift Code (Python). I am interested in further applying machine learning to physics and data science. 
 
-# Physics and medicine
 
-# Physics and computer science
 
