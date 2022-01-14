@@ -3,7 +3,7 @@ Hello world, i'm Amelia
 :grinning:
 # comment
 
-:dizzy: To express my love for physics, I will resort to a few words. "The laws of physics is the canvas God laid down on which to paint his masterpiece". <br />
+:dizzy: To express my love for physics, I will resort to a few words. "Not only is the Universe stranger than we think, it is stranger than we can think". <br />
 :dizzy: I am a third year undergraduate at UCLA majoring in Astrophysics. <br />
 :dizzy:  I have broad resarch interests, ranging from planetary formation to particle physics. I am interested in applying physics to new technologies and industries. <br />
 :dizzy:  I use analytical, statistical, and computational methods to study these areas and share my knowledge.  <br />
