@@ -1,7 +1,7 @@
 # Amelia-Konomoss
 Hello world, i'm Amelia
 :grinning:
-# Who am I
+# About me
 
 <img width="211" alt="Screen Shot 2022-01-13 at 6 15 09 PM" src="https://user-images.githubusercontent.com/66533374/149439941-509c92f2-68cd-4044-9673-98a78a8cb66d.png">
 
