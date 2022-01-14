@@ -14,15 +14,16 @@ Hello world, i'm Amelia
 :boom: Contact me at konomos@g.ucla.edu or 
 :boom: [Linked In](https://www.linkedin.com/in/amelia-konomos/)
 
-# Physics and astronomy
+# Physics and Astronomy
 
+:boom: Physics and astronomy compliment each other beautifully. As a summer research fellow at Caltech, I explored atmospheric characterization of exoplanets. Read about my project below!
 :boom: [Research fellow poster](https://github.com/akonomos/Amelia-Konomoss/files/7856561/RESEARCH_POSTER.pdf) <br />
 
 :boom: [Research paper](https://github.com/akonomos/Amelia-Konomoss/files/7856583/final_report_SURF.pdf)
 
 :boom: [SURF presentation](https://www.youtube.com/watch?v=WAnW8u--diQ)
 
-# Physics and data science
+# Physics and Data Science
 
 # Physics and medicine
 
