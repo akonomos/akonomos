@@ -11,7 +11,7 @@ Hello world, i'm Amelia
 :dizzy:  I have explored broad research interests, ranging from planetary formation to neural networks. I am interested in applying physics to new technologies and industries, as I believe it is a powerful language once fluent. <br />
 :dizzy:  I use analytical, statistical, and computational methods to study these areas and share my knowledge.  <br />
 
-:boom: Contact me at konomos@g.ucla.edu or 
+:boom: Contact me at konomos@g.ucla.edu  <br />
 :boom: [Linked In](https://www.linkedin.com/in/amelia-konomos/)
 
 # Physics and Astronomy
@@ -24,8 +24,8 @@ Hello world, i'm Amelia
 :boom: [SURF presentation](https://www.youtube.com/watch?v=WAnW8u--diQ)
 
 # Physics and Computer Science
-Physics and computer science are two complimentary fields. The former provides an analytical framework about the natural world while the latter applies practical insights to data science. Through my studies, I have gained experience with both Python and C++ and libraries like AstroPy, NumPy, pandas, OpenCV, and TensorFlow.  <br />
-Some of my coding projects include an Exoplanet Wavelength Calibrated Solution Framework (Python) and Reference Frame Shift Code (Python). I am interested in further applying machine learning to physics and data science. 
+:boom: Physics and computer science are two complimentary fields. The former provides an analytical framework about the natural world while the latter applies practical insights to data science. Through my studies, I have gained experience with both Python and C++ and libraries like AstroPy, NumPy, pandas, OpenCV, and TensorFlow.  <br />
+:boom: Some of my coding projects include an Exoplanet Wavelength Calibrated Solution Framework (Python) and Reference Frame Shift Code (Python). I am interested in further applying machine learning to physics and data science. 
 
 
 
