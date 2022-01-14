@@ -25,7 +25,9 @@ Hello world, i'm Amelia
 
 # Physics and Computer Science
 :boom: Physics and computer science are two complimentary fields. The former provides an analytical framework about the natural world while the latter applies practical insights to data science. Through my studies, I have gained experience with both Python and C++ and libraries like AstroPy, NumPy, pandas, OpenCV, and TensorFlow.  <br />
-:boom: Some of my coding projects include an Exoplanet Wavelength Calibrated Solution Framework (Python) and Reference Frame Shift Code (Python). I am interested in further applying machine learning and quantum computing to physics and data science. 
+:boom: Some of my coding projects include an Exoplanet Wavelength Calibrated Solution Framework (Python) and Reference Frame Shift Code (Python). I am interested in further applying machine learning and quantum computing to physics and data science. <br /> 
+:boom: With my research, I use the pre-written NIRSPEC Data Reduction Pipeline to run analysis of spectra. The projects mentioned above were used to create a wavelength solution and transit graph showcasing my preliminary research result: 
+<img width="464" alt="Screen Shot 2022-01-13 at 6 31 27 PM" src="https://user-images.githubusercontent.com/66533374/149443123-5831d39f-bece-4754-9106-fb8d0d06d5a8.png">
 
 
 
