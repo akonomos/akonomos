@@ -7,7 +7,7 @@ Hello world, i'm Amelia
 
 :dizzy: To express my love for physics, I will resort to a few words. "Not only is the Universe stranger than we think, it is stranger than we can think". <br />
 :dizzy: I am a third year undergraduate at UCLA majoring in Astrophysics. <br />
-:dizzy:  I have broad resarch interests, ranging from planetary formation to particle physics. I am interested in applying physics to new technologies and industries. <br />
+:dizzy:  I have broad resarch interests, ranging from planetary formation to particle physics. I am interested in applying physics to new technologies and industries, as I believe it is a powerful language to be utilized once one gains fluency. <br />
 :dizzy:  I use analytical, statistical, and computational methods to study these areas and share my knowledge.  <br />
 
 :boom: [Research fellow poster](https://github.com/akonomos/Amelia-Konomoss/files/7856561/RESEARCH_POSTER.pdf) <br />
