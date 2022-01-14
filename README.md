@@ -24,7 +24,7 @@ Hello world, i'm Amelia
 :boom: [SURF presentation](https://www.youtube.com/watch?v=WAnW8u--diQ)
 
 # Physics and Data Science
-Physics and computer science are two complimentary fields. The former provides an analytical framework about the naturalw world while the latter applies insights from data
+Physics and computer science are two complimentary fields. The former provides an analytical framework about the natural world while the latter applies practical insights to such data. 
 
 # Physics and medicine
 
