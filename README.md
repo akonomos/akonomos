@@ -11,7 +11,7 @@ Hello world, i'm Amelia
 :dizzy:  I have broad resarch interests, ranging from planetary formation to particle physics. I am interested in applying physics to new technologies and industries, as I believe it is a powerful language to be utilized once one gains fluency. <br />
 :dizzy:  I use analytical, statistical, and computational methods to study these areas and share my knowledge.  <br />
 
-:boom: [Contact me](konomos@g.ucla.edu)
+:boom: [Contact me at konomos@g.ucla.edu or 
 :boom: [Linked In](https://www.linkedin.com/in/amelia-konomos/)
 
 # Physics and astronomy
