@@ -8,7 +8,7 @@ Hello world, i'm Amelia
 
 :dizzy: To express my love for physics, I will resort to a few words. "Not only is the Universe stranger than we think, it is stranger than we can think". <br />
 :dizzy: I am a third year undergraduate at UCLA majoring in Astrophysics. <br />
-:dizzy:  I have explored broad research interests, ranging from planetary formation to neural networks. I am interested in applying physics to new technologies and industries, as I believe it is a powerful language that I have fluency in. <br />
+:dizzy:  I have explored broad research interests, ranging from planetary formation to neural networks. I am interested in applying physics to new technologies and industries, as I believe it is a powerful language once fluent. <br />
 :dizzy:  I use analytical, statistical, and computational methods to study these areas and share my knowledge.  <br />
 
 :boom: Contact me at konomos@g.ucla.edu or 
