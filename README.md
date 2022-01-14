@@ -16,7 +16,7 @@ Hello world, i'm Amelia
 
 # Physics and Astronomy
 
-:boom: Physics and astronomy compliment each other beautifully. As a summer research fellow at Caltech, I explored atmospheric characterization of exoplanets. Read about my project below! <br />
+:boom: Physics and astronomy go hand in hand. As a summer research fellow at Caltech, I explored atmospheric characterization of exoplanets. Read about my project below! <br />
 :boom: [Research fellow poster](https://github.com/akonomos/Amelia-Konomoss/files/7856561/RESEARCH_POSTER.pdf) <br />
 
 :boom: [Research paper](https://github.com/akonomos/Amelia-Konomoss/files/7856583/final_report_SURF.pdf)
@@ -24,7 +24,9 @@ Hello world, i'm Amelia
 :boom: [SURF presentation](https://www.youtube.com/watch?v=WAnW8u--diQ)
 
 # Physics and Data Science
+Physics and computer science are two complimentary fields. The former provides an analytical framework about the naturalw world while the latter applies insights from data
 
 # Physics and medicine
 
 # Physics and computer science
+
